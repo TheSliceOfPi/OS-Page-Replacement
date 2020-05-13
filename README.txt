@@ -1,7 +1,11 @@
-proj3.py
+Edith Flores
+OS Page Replacement Algorithm
+
+Files:
+pra.c
+
+
+--------pra-----------------
+pra is a simple algorithm to determine what file will be replaced next. I used FIFO where the next line will be the one that will be replaced and then looks back around.
 
 To run:
-python3 proj3.py
-
-The rest of the document files are needed to preprocess, some have been altered to implement documents as queries.
-Proj3.py is the program.
